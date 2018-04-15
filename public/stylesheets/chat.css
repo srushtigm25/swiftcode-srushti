@@ -7,6 +7,8 @@ body {
 }
 
 #message-pane {
+    background-image: url("/assets/images/cc.jpg");
+    background-size: cover;
     background-color: #101c2d;
     margin: 15px;
 }
@@ -24,4 +26,5 @@ body {
     border-radius: 10px;
     padding: 10px;
     font-size: 14px;
+    color: black;
 }
